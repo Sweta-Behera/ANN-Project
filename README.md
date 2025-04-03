@@ -21,7 +21,9 @@ Ensure you have **Python 3.8+** and install the required libraries:
 ```bash
 pip install -r requirements.txt
 
-## Live Demo
+---
+
+## How to Run the Project Locally 
 🚀 Streamlit Dashboard Link
 
 ## Project Structure
